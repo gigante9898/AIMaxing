@@ -1,0 +1,19 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' width='960' height='640' viewBox='0 0 960 640'>
+  <defs>
+    <linearGradient id='grada926b43e8bc3452885b1ac23a89c3423' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0%' stop-color='#facc15' />
+      <stop offset='100%' stop-color='#d97706' />
+    </linearGradient>
+  </defs>
+  <rect width='960' height='640' fill='url(#grada926b43e8bc3452885b1ac23a89c3423)' />
+  <g opacity='0.12'>
+    <circle cx='820' cy='140' r='150' fill='#fef3c7' />
+    <circle cx='120' cy='520' r='190' fill='#ffffff' />
+    <circle cx='540' cy='420' r='220' fill='#ffffff' />
+  </g>
+  <rect x='80' y='120' width='240' height='240' rx='36' ry='36' fill='rgba(255,255,255,0.12)' stroke='rgba(255,255,255,0.35)' stroke-width='6' />
+  <rect x='140' y='180' width='120' height='120' rx='24' ry='24' fill='rgba(255,255,255,0.45)' />
+  <text x='80' y='430' font-family='""Outfit"", ""Segoe UI"", sans-serif' font-size='32' letter-spacing='8' fill='rgba(255,255,255,0.75)'>MEMORY</text>
+  <text x='80' y='500' font-family='""Outfit"", ""Segoe UI"", sans-serif' font-size='60' font-weight='700' fill='#ffffff'>Corsair Dominator</text>
+  <text x='80' y='560' font-family='""Outfit"", ""Segoe UI"", sans-serif' font-size='34' font-weight='500' fill='rgba(255,255,255,0.85)'>Titanium DDR5-7200</text>
+</svg>
